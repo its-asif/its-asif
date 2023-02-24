@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-asif&label=Profile%20views&color=0e75b6&style=flat" alt="its-asif" /> </p>
 
+- 🌱 I’m currently learning **Algorithms**
+
+- 📫 How to reach me **asifiscoding@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asif-hossain-61793b15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-hossain-61793b15b" height="30" width="40" /></a>
