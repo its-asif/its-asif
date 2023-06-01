@@ -53,6 +53,5 @@
   <a href="mailto:asifiscoding@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/asif-hossain-61793b15b" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
   <a href="https://fb.com/asifiscoding" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" /></a>
-  <a href="https://twitter.com/AsifIsCoding" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/asifiscoding" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
+  
 </p>
