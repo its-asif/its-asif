@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects related to algorithm design and optimization**
 
-- 🤝 I’m looking for help with **open source projects related to algorithm design and optimization**
-
 - 💬 Ask me about **react or anything related to competitive programming**
 
 - 📫 How to reach me **asifiscoding@gmail.com**
