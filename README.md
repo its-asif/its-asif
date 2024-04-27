@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-asif&label=Profile%20views&color=0e75b6&style=flat-square" alt="its-asif" /> </p>
 
-- 🔭 I’m currently working on **MERN development and algorithm design**
+- 🔭 I’m currently working on **MERN Stack development and algorithm design**
 
-- 🌱 I’m currently learning **NodeJS and MongoDB**
+- 🌱 I’m currently learning **NodeJS and PostgreSQL**
 
 - 👯 I’m looking to collaborate on **open source projects related to algorithm design and optimization**
 
-- 💬 Ask me about **react or anything related to competitive programming**
+- 💬 Ask me about **MERN Stack or anything related to competitive programming**
 
 - 📫 How to reach me **asifiscoding@gmail.com**
 
