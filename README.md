@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/tLhqKsT/github-header-image-1.png" alt="my banner">
+<img width="100%" src="https://i.ibb.co/s93JR2D/github-header-image.png" alt="my banner">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-asif&label=Profile%20views&color=0e75b6&style=flat-square" alt="its-asif" /> </p>
