@@ -4,7 +4,7 @@
 
 #### A Full-Stack Developer by day ☼ and A Competitive Programmer by night ☾
 
-ReactJS Developer at [Kodezen](http://kodezen.com/);<br>
+Former ReactJS Developer at [Kodezen](http://kodezen.com/);<br>
 Pupil rated at [Codeforces](https://codeforces.com/profile/pinik);<br>
 
 - ⚙️ I use daily: `.cpp`, `.js`, `.go`
